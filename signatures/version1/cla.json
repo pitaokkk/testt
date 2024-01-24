@@ -1,3 +1,20 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "pitaokkk-test",
+      "id": 157483105,
+      "comment_id": 1907460426,
+      "created_at": "2024-01-24T06:36:26Z",
+      "repoId": 747546149,
+      "pullRequestNo": 1
+    },
+    {
+      "name": "pitaokkk-test",
+      "id": 157483105,
+      "comment_id": 1907460544,
+      "created_at": "2024-01-24T06:36:34Z",
+      "repoId": 747546149,
+      "pullRequestNo": 1
+    }
+  ]
 }
